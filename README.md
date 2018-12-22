@@ -9,9 +9,17 @@ The project is currently a work in progress, but I've used Python to calculate t
 |---|---|---|---|---|
 | Six of a kind | 10 | 0.001% | 100,000:1 | $${10 \choose 1}$$ |
 | Five of a kind | 540 | 0.054% | 1,852:1 | $${10 \choose 1}{6 \choose 1}{9 \choose 1}$$ |
-
+| Five of a kind | 540 | 0.054% | 1,852:1 |  |
+| Double threes of a kind | 900 | 0.09% | 1,111:1 |  |
+| Four-two full house | 540 | 0.054% | 1,852:1 |  |
+| Five of a kind | 540 | 0.054% | 1,852:1 |  |
+| Five of a kind | 540 | 0.054% | 1,852:1 |  |
+| Five of a kind | 540 | 0.054% | 1,852:1 |  |
+| Five of a kind | 540 | 0.054% | 1,852:1 |  |
+| Five of a kind | 540 | 0.054% | 1,852:1 |  |
+| Five of a kind | 540 | 0.054% | 1,852:1 |  |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODA5MzU5NywtMTU3NzMwNTg0NSwtMj
-UzOTIxMDQ1LC0xNjMxNzUyMjg1LC0xODcxMjAwNDQ2LDEyMDY4
-MjgyNjVdfQ==
+eyJoaXN0b3J5IjpbODY0NjcwNDQzLC0xNTc3MzA1ODQ1LC0yNT
+M5MjEwNDUsLTE2MzE3NTIyODUsLTE4NzEyMDA0NDYsMTIwNjgy
+ODI2NV19
 -->
