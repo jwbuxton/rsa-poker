@@ -14,12 +14,12 @@ The project is currently a work in progress, but I've used Python to calculate t
 | Four of a kind | 10,800 | 1.08% | 93:1 |  |
 | Three pairs | 10,800 | 1.08% | 93:1 |  |
 | Three-two full house | 43,200 | 4.32% | 23:1 |  |
-| Five of a kind | 540 | 0.054% | 1,852:1 |  |
-| Five of a kind | 540 | 0.054% | 1,852:1 |  |
-| Five of a kind | 540 | 0.054% | 1,852:1 |  |
-| Five of a kind | 540 | 0.054% | 1,852:1 |  |
+| Three of a kind | 100,800 | 10.08% | 10:1 |  |
+| Two pairs | 226,800 | 0.054% | 1,852:1 |  |
+| One pair | 453,600 | 0.054% | 1,852:1 |  |
+| High card | 151,200 | 0.054% | 1,852:1 |  |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODA5NTY2NSwtMTU3NzMwNTg0NSwtMj
-UzOTIxMDQ1LC0xNjMxNzUyMjg1LC0xODcxMjAwNDQ2LDEyMDY4
-MjgyNjVdfQ==
+eyJoaXN0b3J5IjpbNDIxNTE3MzUzLC0xNTc3MzA1ODQ1LC0yNT
+M5MjEwNDUsLTE2MzE3NTIyODUsLTE4NzEyMDA0NDYsMTIwNjgy
+ODI2NV19
 -->
