@@ -3,7 +3,7 @@ Have you used some form of 2-factor authentication?  Does it involve the generat
 
 If you've answered "yes" to all four of the above, RSA Poker is for you!  
 
-The project is currently a work in pro 
+The project is currently a work in progress, but I've used Python to calculate the odds and 
 
 | Short of Breath? | Exacerbation (Y/N) |
 |---|---|
@@ -12,6 +12,6 @@ The project is currently a work in pro
 | Less Than Usual  | 0.692982           |
 | More Than Usual  | 0.905172           |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzkyMTA0NSwtMTYzMTc1MjI4NSwtMT
-g3MTIwMDQ0NiwxMjA2ODI4MjY1XX0=
+eyJoaXN0b3J5IjpbLTE1NzczMDU4NDUsLTI1MzkyMTA0NSwtMT
+YzMTc1MjI4NSwtMTg3MTIwMDQ0NiwxMjA2ODI4MjY1XX0=
 -->
