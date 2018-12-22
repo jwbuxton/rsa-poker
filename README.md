@@ -3,14 +3,14 @@ Have you used some form of 2-factor authentication?  Does it involve the generat
 
 If you've answered "yes" to all four of the above, RSA Poker is for you!  
 
-```markdown
+
 | Short of Breath? | Exacerbation (Y/N) |
-|------------------|--------------------|
+|---|---|
 | No               | 0.582090           |
 | Same As Usual    | 0.613139           |
 | Less Than Usual  | 0.692982           |
 | More Than Usual  | 0.905172           |
-```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzEyMDA0NDYsMTIwNjgyODI2NV19
+eyJoaXN0b3J5IjpbLTE2MzE3NTIyODUsLTE4NzEyMDA0NDYsMT
+IwNjgyODI2NV19
 -->
