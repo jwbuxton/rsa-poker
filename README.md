@@ -5,14 +5,11 @@ If you've answered "yes" to all four of the above, RSA Poker is for you!
 
 The project is currently a work in progress, but I've used Python to calculate the odds via brute force for some simple odds.  
 
-| Hand | Frequency |
-|---|---|
-| Six of a kind | 10 |
-| Same As Usual    | 0.613139           |
-| Less Than Usual  | 0.692982           |
-| More Than Usual  | 0.905172           |
+| Hand | Frequency | Odds | Math
+|---|---|---|---|
+| Six of a kind | 10 | 100,000:1 | $${10 \choose 1}$$ |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjczNDM1MywtMTU3NzMwNTg0NSwtMj
+eyJoaXN0b3J5IjpbMTc2MjY1MTc2NywtMTU3NzMwNTg0NSwtMj
 UzOTIxMDQ1LC0xNjMxNzUyMjg1LC0xODcxMjAwNDQ2LDEyMDY4
 MjgyNjVdfQ==
 -->
