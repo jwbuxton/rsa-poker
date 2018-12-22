@@ -12,14 +12,14 @@ The project is currently a work in progress, but I've used Python to calculate t
 | Double threes of a kind | 900 | 0.09% | 1,111:1 | $${10 \choose 2}{6 \choose 3}$$ |
 | Four-two full house | 1,350 | 0.135% | 741:1 |  |
 | Four of a kind | 10,800 | 1.08% | 92.6:1 |  |
-| Three pairs | 10,800 | 1.08% | 92.6:1 | $${10 \choose 3}{6 \choose 2,2,2}$$ |
+| Three pairs | 10,800 | 1.08% | 92.6:1 | $${10 \choose 3}{6 \choose 2}{4 \choose 2}$$ |
 | Three-two full house | 43,200 | 4.32% | 23.1:1 |  |
 | Three of a kind | 100,800 | 10.08% | 9.92:1 |  |
 | Two pairs | 226,800 | 22.68% | 4.41:1 |  |
 | One pair | 453,600 | 45.36% | 2.20:1 |  |
 | High card | 151,200 | 15.12% | 6.61:1 |  |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwOTE4ODQ3LC0xNTc3MzA1ODQ1LC0yNT
+eyJoaXN0b3J5IjpbODMxNzkxOTEwLC0xNTc3MzA1ODQ1LC0yNT
 M5MjEwNDUsLTE2MzE3NTIyODUsLTE4NzEyMDA0NDYsMTIwNjgy
 ODI2NV19
 -->
