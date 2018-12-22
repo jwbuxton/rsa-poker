@@ -3,7 +3,7 @@ Have you used some form of 2-factor authentication?  Does it involve the generat
 
 If you've answered "yes" to all four of the above, RSA Poker is for you!  
 
-The project is currently a work in progress, but I've used Python to calculate the odds via brute force for some simple odds.  
+The project is currently a work in progress, but I've used Python to calculate the odds via brute force for some simple hands.  
 
 | Hand | Frequency | Probability | Odds | Math
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ The project is currently a work in progress, but I've used Python to calculate t
 | One pair | 453,600 | 45.36% | 2.20:1 |  |
 | High card | 151,200 | 15.12% | 6.61:1 |  |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxNzkxOTEwLC0xNTc3MzA1ODQ1LC0yNT
+eyJoaXN0b3J5IjpbLTg4NzY5MDUwLC0xNTc3MzA1ODQ1LC0yNT
 M5MjEwNDUsLTE2MzE3NTIyODUsLTE4NzEyMDA0NDYsMTIwNjgy
 ODI2NV19
 -->
