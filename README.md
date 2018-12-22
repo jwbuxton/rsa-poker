@@ -3,16 +3,16 @@ Have you used some form of 2-factor authentication?  Does it involve the generat
 
 If you've answered "yes" to all four of the above, RSA Poker is for you!  
 
-The project is currently a work in progress, but I've used Python to calculate the odds a
+The project is currently a work in progress, but I've used Python to calculate the odds via brute force for some simple odds.  
 
-| Short of Breath? | Exacerbation (Y/N) |
+| Hand | Frequency |
 |---|---|
 | No               | 0.582090           |
 | Same As Usual    | 0.613139           |
 | Less Than Usual  | 0.692982           |
 | More Than Usual  | 0.905172           |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTUwNDk2NjUsLTE1NzczMDU4NDUsLT
-I1MzkyMTA0NSwtMTYzMTc1MjI4NSwtMTg3MTIwMDQ0NiwxMjA2
-ODI4MjY1XX0=
+eyJoaXN0b3J5IjpbMzkyOTAxNDI3LC0xNTc3MzA1ODQ1LC0yNT
+M5MjEwNDUsLTE2MzE3NTIyODUsLTE4NzEyMDA0NDYsMTIwNjgy
+ODI2NV19
 -->
