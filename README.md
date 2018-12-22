@@ -16,10 +16,10 @@ The project is currently a work in progress, but I've used Python to calculate t
 | Three-two full house | 43,200 | 4.32% | 23.1:1 |  |
 | Three of a kind | 100,800 | 10.08% | 9.92:1 |  |
 | Two pairs | 226,800 | 22.68% | 4.41:1 |  |
-| One pair | 453,600 | % | 2.20:1 |  |
-| High card | 151,200 | 0.054% | 1,852:1 |  |
+| One pair | 453,600 | 45.36% | 2.20:1 |  |
+| High card | 151,200 | 15.12% | 6.61:1 |  |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjI3ODQxNiwtMTU3NzMwNTg0NSwtMj
+eyJoaXN0b3J5IjpbLTE5NTgzMjU1MSwtMTU3NzMwNTg0NSwtMj
 UzOTIxMDQ1LC0xNjMxNzUyMjg1LC0xODcxMjAwNDQ2LDEyMDY4
 MjgyNjVdfQ==
 -->
